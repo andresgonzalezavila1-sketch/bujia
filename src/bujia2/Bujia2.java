@@ -28,7 +28,7 @@ public class Bujia2 {
         System.out.println("Número entero aleatorio: " + entero);
         System.out.println("Número decimal aleatorio: " + decimal);
         System.out.println("Valor booleano aleatorio: " + booleano);
-    
+    //bujia
 
     }
     
